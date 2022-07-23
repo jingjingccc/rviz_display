@@ -1,0 +1,6 @@
+image: gray_table.png
+resolution: 0.01 # meters / pixel
+origin: [0.0, 0.0, 0.0]
+negate: 0
+occupied_thresh: 0.75 # greater
+free_thresh: 0.15 # smaller
