@@ -1,1 +1,1 @@
-Rviz show Image and RobotModel
+Rviz show Image and RobotModel.
