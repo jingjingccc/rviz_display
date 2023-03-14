@@ -11,9 +11,12 @@ install rviz plugin (required) and compile
 git clone https://github.com/lucasw/rviz_textured_quads.git
 git clone https://github.com/lucasw/rviz_camera_stream.git
 ```
+
 <img src="rviz_setting.png" height="500">
 
 **NOTICE** : **Image Topic** under MeshDisplayCustom needs to correctly type in.
+
+**NOTICE** : The path of the pictrue needs to be modified in source code(publish_image.cpp).
 
 #### [RUN]
 ```
